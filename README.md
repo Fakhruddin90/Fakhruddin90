@@ -1,5 +1,6 @@
 ### Hi 👋 I'm Fakhruddin
 
+- [My AI Repos](https://github.com/Fakhruddin90/fakhruddin-ai-repos)
 <!--
 **Fakhruddin90/Fakhruddin90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
