@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## My Certificate
+## Badges
 ![](./img/python-data-science-full-throttle.png)
 
