@@ -1,6 +1,7 @@
-<!-- ### Hi 👋 I'm Fakhruddin -->
-
+<!-- ### Hi 👋 I'm Fakhruddin 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=200&color=164B63&multiline=true&width=500&height=150&lines=Hi+👋+I'm+Fakhruddin;Welcome+to+my+github+repo)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=206D8F&vCenter=true&multiline=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Fakhruddin;Welcome+to+my+github+repo)](https://git.io/typing-svg)
 
 - [My AI Repos](https://github.com/Fakhruddin90/fakhruddin-ai-repos)
 <!--
