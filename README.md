@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Din
 - ⚡ Fun fact: Tech Enthusiast
 
-## Badges
-![](./img/python-data-science-full-throttle.png)
+## Learning Badges
+
+1. [Python Data Science Full Throttle](https://www.credly.com/badges/b573993a-fa78-4b7f-a1bd-2123b42b602c/public_url) -> Date issued: June 05, 2024
+1. [ChatGPT for Engineers](https://www.credly.com/badges/219f0060-5222-451c-ac13-57dc491cbc6f/public_url) -> Date issued: June 10, 2024
 
