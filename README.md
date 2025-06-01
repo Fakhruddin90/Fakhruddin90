@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Din
 - ⚡ Fun fact: Tech Enthusiast
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fakhruddin90)](https://github.com/Fakhruddin90/github-readme-stats)
+![Fakhruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fakhruddin90&show_icons=true&theme=dark)
 
 ## Learning Badges
 
