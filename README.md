@@ -1,4 +1,6 @@
-### Hi 👋 I'm Fakhruddin
+<!-- ### Hi 👋 I'm Fakhruddin -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=200&color=164B63&multiline=true&width=500&height=150&lines=Hi+👋+I'm+Fakhruddin;Welcome+to+my+github+repo)](https://git.io/typing-svg)
 
 - [My AI Repos](https://github.com/Fakhruddin90/fakhruddin-ai-repos)
 <!--
